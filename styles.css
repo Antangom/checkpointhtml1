@@ -1,0 +1,29 @@
+h1 {color: yellow;
+    font-family: roboto;
+    text-align: center;
+
+
+}
+h3{ text-align: center;
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap" rel="stylesheet">
+}
+img{
+    width: 700;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+h4{ text-align: center;}
+
+
+.linguere
+{background-color: rgb(34, 34, 236) }
+p{
+    color: aliceblue;
+}
+.couleurnav
+{background-color: rgb(3, 109, 3)}
+
